@@ -1,2 +1,2 @@
 # aoc-2021
-Advent of Code 2021 soutions written in Go
+Advent of Code 2021 solutions written in Go
